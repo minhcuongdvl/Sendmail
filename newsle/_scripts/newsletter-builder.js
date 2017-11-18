@@ -136,15 +136,18 @@ $(".sim-row-edit").hover(
 	//edit text
 	if(big_parent.attr("data-type")=='text'){
 	
-	$("#sim-edit-text .text").val(big_parent.text());
+        CKEDITOR.instances['editor1'].setData(big_parent.html())
+	$("#sim-edit-text #editor1").val(big_parent.text());
 	$("#sim-edit-text").fadeIn(500);
 	$("#sim-edit-text .sim-edit-box").slideDown(500);
 	
 	$("#sim-edit-text .sim-edit-box-buttons-save").click(function() {
 	  $(this).parent().parent().parent().fadeOut(500)
 	  $(this).parent().parent().slideUp(500)
-	   
-	    big_parent.text($("#sim-edit-text .text").val());
+	  var NoiDungTextArea = CKEDITOR.instances.editor1.getData();
+                                
+           
+	    big_parent.html(NoiDungTextArea);
 		
 		
 	   

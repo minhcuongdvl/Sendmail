@@ -60,12 +60,16 @@
 
 
 <div class="sim-edit" id="sim-edit-text">
-<div class="sim-edit-box" style="height:390px;">
+<div class="sim-edit-box" style="height:700px;width: 700px">
 <div class="sim-edit-box-title">Edit Text</div>
 
 <div class="sim-edit-box-content">
 <div class="sim-edit-box-content-text">Text</div>
-<div class="sim-edit-box-content-field"><textarea class="sim-edit-box-content-field-textarea text"></textarea></div>
+<div class="sim-edit-box-content-field"><textarea id="editor1" class="sim-edit-box-content-field-textarea text"></textarea>
+    <script>
+        CKEDITOR.replace( 'editor1' );
+    </script>
+</div>
 </div>
 <div class="sim-edit-box-buttons">
 <div class="sim-edit-box-buttons-save">Save</div>

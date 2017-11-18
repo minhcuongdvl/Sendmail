@@ -13,7 +13,7 @@
 
 <script type="text/javascript" src="_scripts/jquery-ui-1.10.4.min.js"></script>
 <script type="text/javascript" src="_scripts/newsletter-builder.js"></script>
-
+<script src="../ckeditor/ckeditor.js" type="text/javascript"></script>
 
 </head>
 <body>

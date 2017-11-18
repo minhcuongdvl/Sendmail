@@ -1141,95 +1141,33 @@
 	width: 300px;
 	text-align: right;
 	}
-</style><link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"><div id="sim-wrapper"><div id="sim-wrapper-newsletter"><div class="sim-row" data-id="4">
-      <div class="sim-row-content1">
-      <div class="sim-row-content1-tab">
-      <div class="sim-row-content1-tab-icon"><i class="fa fa-file-text"></i></div>
-      <div class="sim-row-content1-tab-title">Content Ready</div>
-      <div class="sim-row-content1-tab-text">Ut iaculis ut massa sit amet dictum. Nulla tortor metus, eleifend vel</div>
-      </div>
-      
-      <div class="sim-row-content1-tab">
-      <div class="sim-row-content1-tab-icon"><i class="fa fa-life-ring"></i></div>
-      <div class="sim-row-content1-tab-title">Free Support</div>
-      <div class="sim-row-content1-tab-text">Ut iaculis ut massa sit amet dictum. Nulla tortor metus, eleifend vel</div>
-      </div>
-      
-      <div class="sim-row-content1-tab">
-      <div class="sim-row-content1-tab-icon"><i class="fa fa-files-o"></i></div>
-      <div class="sim-row-content1-tab-title">Drag and Drop</div>
-      <div class="sim-row-content1-tab-text">Ut iaculis ut massa sit amet dictum. Nulla tortor metus, eleifend vel</div>
-      </div>
-      </div>
-      </div><div class="sim-row" data-id="16">
-       <div class="sim-row-content13">
-       <div class="sim-row-content13-center">
-       <div class="sim-row-content13-center-left">
-       <div class="sim-row-content13-center-left-title">Are you impressed by now ?</div>
-       <div class="sim-row-content13-center-left-subtitle">Let’s start something big</div>
-       </div>
-       <div class="sim-row-content13-center-right"><a href="#" class="">Request Quote</a></div>
-       </div>
-       </div>
-       </div>
-      
-      
-      
-
-      
-      
-      
-      
-      
-      
-      
-      
-       
-      
-      
-       
-       
-       
-       
-      
-      
-      
-      
-      
-      
-      
-      
-       
-       
-      
-       
-       
-       
-       
-       
-       
-       
-       
-     
-       
-      
-      
+</style><link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"><div id="sim-wrapper"><div id="sim-wrapper-newsletter">
       
      
-      
-      
        
        
-       
-       
-       
-
-       
-       
-       
-       
-       
-      
+      <div class="sim-row" style="position: relative; left: 0px; top: 0px;">
+      <div class="sim-row-content14">
+      <div class="sim-row-content14-center">
+      <div class="sim-row-content14-center-left">
+      <div class="sim-row-content14-center-left-title">About Us</div>
+      <div class="sim-row-content14-center-left-text">&lt;h1&gt;&lt;span style="color:#c0392b"&gt;&lt;span style="font-family:Georgia,serif"&gt;ewqewqeqweqw&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;
+</div>
+      </div>
+      <div class="sim-row-content14-center-right">
+      <div class="sim-row-content14-center-right-title">Contact Us</div>
+      <div class="sim-row-content14-center-right-row">
+      <div class="sim-row-content14-center-right-type">Address:</div>
+      <div class="sim-row-content14-center-right-content">1234 Street Web Developers</div>
+      </div>
+      <div class="sim-row-content14-center-right-row">
+      <div class="sim-row-content14-center-right-type">Email:</div>
+      <div class="sim-row-content14-center-right-content">mail@example.com</div>
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
       
       
       <div class="sim-row">
